@@ -1,7 +1,7 @@
 # P.O.S(Power Of Search)
 P.O.S는 `안정성`과 `사용성`에 집중한 클라우드 기반 웹POS 시스템입니다.<br/>
 
-#### [시연영상](https://youtu.be/Vr5r86-4ZD4)
+#### 💿 [시연영상](https://youtu.be/Vr5r86-4ZD4)
 
 #### [최종 산출물](https://drive.google.com/drive/folders/1DRXou06yzREKfCMPpMTFjdskvF2JchIj?usp=sharing)
 
